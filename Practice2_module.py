@@ -35,7 +35,7 @@ def caculate(a,b,c) :
 
 def addVoca(voca) :
     try :
-        a = input("추가(eng:kor) : ")
+        a = input("추가(Eng:Kor) : ")
         eng = a.split(":")[0].strip().lower()
         kor = a.split(":")[1].strip().lower()
         if(eng in voca) :

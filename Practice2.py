@@ -44,7 +44,7 @@ if __name__ == "__main__" :
     m.selectMenu(voca)
 
 #End
-print("수고하셨슴당")
+print("수고하셨습니당~~~!")
 
     
     
